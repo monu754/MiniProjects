@@ -21,6 +21,14 @@ A simple Python desktop GUI app to take screenshots using `pyautogui` and `tkint
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/screenshot-app.git
-   cd screenshot-app```
+   cd screenshot-app
+
+2. Install required Python packages:
+   ```bash
+   pip install pyautogui
+3. Usage:
+   ```bash
+   python screenshot.py
    
-# Feel free to fork, modify, and enhance this project!
+Feel free to fork, modify, and enhance this project!
+
