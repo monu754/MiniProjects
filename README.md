@@ -11,7 +11,7 @@ A collection of Python-based mini projects and utilities, including tools like s
 
 - Python 3.x
 - Standard Python libraries
-- Additional libraries (if any, specify per project)
+
 
 ## 🚀 Getting Started
 
