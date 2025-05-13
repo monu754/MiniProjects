@@ -5,6 +5,7 @@ A collection of Python-based mini projects and utilities, including tools like s
 ## 📂 Projects Included
 
 - 📸 **Screenshot Tool** – Capture and save screenshots easily using Python.
+- 🔑 **Password Generator** – Generate secure random passwords with customizable options.
 - 📝 **More projects coming soon...**
 
 ## 🧰 Tech Stack
