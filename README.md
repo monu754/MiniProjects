@@ -1,34 +1,30 @@
-# 📸 Screenshot App
+# 🛠️ Python Mini Projects
 
-A simple Python desktop GUI app to take screenshots using `pyautogui` and `tkinter`.
+A collection of Python-based mini projects and utilities, including tools like screenshot capture and other handy scripts for everyday tasks and learning.
 
-## ✨ Features
+## 📂 Projects Included
 
-- 🖼️ Take full-screen screenshots with a button click
-- ⏱️ 3-second delay before capture
-- 💾 Saves screenshots as `.jpg` files with random filenames
-- 📂 Automatically opens the captured image
-- 🧰 Clean GUI with "Take Screenshot" and "Quit" buttons
+- 📸 **Screenshot Tool** – Capture and save screenshots easily using Python.
+- 📝 **More projects coming soon...**
 
-## 🧱 Requirements
+## 🧰 Tech Stack
 
-- 🐍 Python 3.x
-- 📦 [pyautogui](https://pypi.org/project/pyautogui/)
-- 🧮 `tkinter` (usually comes with Python)
+- Python 3.x
+- Standard Python libraries
+- Additional libraries (if any, specify per project)
 
-## 🚀 Installation
+## 🚀 Getting Started
 
-1. Clone this repository:
+1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/screenshot-app.git
-   cd screenshot-app
-
-2. Install required Python packages:
-   ```bash
-   pip install pyautogui
-3. Usage:
-   ```bash
-   python screenshot.py
+   git clone https://github.com/monu754/MiniProjects.git
    
-Feel free to fork, modify, and enhance this project!
+2. **Set up a virtual environment (optional but recommended):**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+3. **Run the desired project script:**
+   ```bash
+   python screenshot.py  # Example
 
