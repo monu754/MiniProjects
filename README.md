@@ -6,12 +6,16 @@ A collection of Python-based mini projects and utilities, including tools like s
 
 - 📸 **Screenshot Tool** – Capture and save screenshots easily using Python.
 - 🔑 **Password Generator** – Generate secure random passwords with customizable options.
+- 📧 **Email Sender** – Send emails using Python with support for environment-based credentials.
 - 📝 **More projects coming soon...**
 
 ## 🧰 Tech Stack
 
 - Python 3.x
-- Standard Python libraries
+- Python libraries you need to install before running the projects:- 
+-> python-dotenv 
+-> pyautogui
+
 
 
 ## 🚀 Getting Started
