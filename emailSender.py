@@ -13,8 +13,8 @@ def sendmail(to, content):
         server.ehlo()
         server.starttls()
 
-        from_email = os.getenv('EMAIL')
-        password = os.getenv('PASSWORD')
+        from_email = os.getenv('EMAIL') #Enter your gmail it should be saved in .env file 
+        password = os.getenv('PASSWORD') #Email's Password which u gets from App Password in gmail
 
         server.login(from_email, password)
         server.sendmail(from_email, to, content)
